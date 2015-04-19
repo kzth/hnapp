@@ -15,6 +15,7 @@ public class Top extends Activity {
         setContentView(R.layout.top);
 
         Log.d("", "");
+        Log.d("", "");
     }
 
     @Override
